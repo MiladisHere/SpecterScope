@@ -1,0 +1,11 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp" android:height="108dp" android:viewportWidth="108" android:viewportHeight="108">
+    <!-- stick figure -->
+    <path android:strokeColor="#39FF14" android:strokeWidth="3" android:strokeLineCap="round" android:strokeLineJoin="round"
+        android:pathData="M54,40V62M54,46L44,56M54,46L64,56M54,62L46,80M54,62L62,80" />
+    <path android:strokeColor="#39FF14" android:strokeWidth="3" android:fillColor="#00000000"
+        android:pathData="M54,31m-6,0a6,6 0,1 1,12 0a6,6 0,1 1,-12 0" />
+    <!-- viewfinder corners -->
+    <path android:strokeColor="#39FF14" android:strokeWidth="3" android:strokeLineCap="round" android:strokeLineJoin="round"
+        android:pathData="M30,40V30H40M68,30H78V40M78,68V78H68M40,78H30V68" />
+</vector>
